@@ -17,3 +17,4 @@
 - 🌐 [My Portfolio](https://verdant-sorbet-d96fcd.netlify.app/)
 - 📧 Lhaagiimaa@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mari-lkhagvadulam-boldbayar-a59346331/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
