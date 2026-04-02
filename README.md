@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mari Lkhagvadulam Boldbayar!
 
-🎓 Higher Diploma in Science in Computing | National College of Ireland (Expected Nov 2025)  
+🎓 Higher Diploma in Science in Computing | National College of Ireland   
 💻 Aspiring Software Developer | Web Designer | IoT Engineer  
 🌍 Languages: Mongolian 🇲🇳 | English 🇬🇧 | Korean 🇰🇷  
 
