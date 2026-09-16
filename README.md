@@ -54,12 +54,6 @@ Practical cybersecurity skills through my MSc in Cybersecurity, with a focus on:
 - Cloud Security
 - Incident Response
 
-## 🌐 Connect with Me
-
-🌍 Portfolio  
-💼 LinkedIn  
-📧 Lhaagiimaa@gmail.com
-
 ## 📫 Connect with Me!
 - 🌐 [My Portfolio](https://verdant-sorbet-d96fcd.netlify.app/)
 - 📧 Lhaagiimaa@gmail.com  
