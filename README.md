@@ -1,17 +1,64 @@
-# 👋 Hi, I'm Mari Lkhagvadulam Boldbayar!
+# 👋 Hi, I'm Mari Lkhagvadulam Boldbayar
 
-🎓 Higher Diploma in Science in Computing | National College of Ireland   
-💻 Aspiring Software Developer | Web Designer | IoT Engineer  
-🌍 Languages: Mongolian 🇲🇳 | English 🇬🇧 | Korean 🇰🇷  
+🎓 MSc Cybersecurity Student | National College of Ireland  
+🎓 Higher Diploma in Science in Computing | NCI  
+📍 Dublin, Ireland  
 
-## 🚀 Tech Stack
-- **Languages**: Java, JavaScript, HTML, CSS, Python  
-- **Databases**: MySQL  
-- **Tools**: Git, GitHub, IntelliJ IDEA, NetBeans, Visual Paradigm  
+🔐 Interested in Cybersecurity, SOC, Network Security, Digital Forensics,
+Incident Response and Cloud Security
 
-## 📌 Projects
-- 🛍 **Fashion Retail Shop Management System** – [GitHub Repo](#)
-- 🏠 **IoT Smart Home Automation** (Ongoing) – [GitHub Repo](#)
+## 🛡️ Cybersecurity Focus
+
+- Network Security
+- Penetration Testing
+- Digital Forensics & eDiscovery
+- Security Fundamentals
+- Cloud Security
+- Incident Management
+
+## 💻 Technical Skills
+
+**Programming:** Python, Java, JavaScript, HTML, CSS  
+**Databases:** MySQL, H2  
+**Cloud:** AWS Cloud Fundamentals  
+**Tools & Technologies:** Git, GitHub, Maven, Spring Boot, gRPC, Protocol Buffers  
+**Core Computing:** Computer Networks, Operating Systems, Distributed Systems
+
+## 🔬 Projects
+
+### 🏠 Smart Home Automation System
+Distributed smart-home automation system using gRPC and Protocol Buffers.
+
+- Java / Python
+- gRPC
+- Protocol Buffers
+- Maven
+- Distributed Systems
+- IoT security considerations
+
+### 🛍️ Fashion Retail Shop Management System
+Java and MySQL-based retail management application.
+
+- Java
+- MySQL
+- UML
+- Visual Paradigm
+
+## 🎯 Currently Developing
+
+Practical cybersecurity skills through my MSc in Cybersecurity, with a focus on:
+
+- Network Security
+- Penetration Testing
+- Digital Forensics
+- Cloud Security
+- Incident Response
+
+## 🌐 Connect with Me
+
+🌍 Portfolio  
+💼 LinkedIn  
+📧 Lhaagiimaa@gmail.com
 
 ## 📫 Connect with Me!
 - 🌐 [My Portfolio](https://verdant-sorbet-d96fcd.netlify.app/)
